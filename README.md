@@ -13,5 +13,5 @@ bash seekerauto.sh
 
 
 
-For more information contact
+For more information contact on
 instagram: mr_blvck_
