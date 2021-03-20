@@ -1,12 +1,14 @@
 # seekerauto
 Easy to use 
-    
-
-Command use
+   
 git clone https://github.com/adithziva/seekerauto.git
+
 ls 
+
 cd seekerauto
+
 ls
+
 bash seekerauto.sh
 
 
