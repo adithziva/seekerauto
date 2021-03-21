@@ -1,3 +1,7 @@
+pkg install cowsay
+pkg install figlet
+
+
 cowsay -f dragon Mr_blvck_ | lolcat
 figlet -f standard BLVCK | lolcat
 echo -e "\e[96m"
@@ -20,6 +24,7 @@ ls
 cd seeker
 ls
 pkg install python php -y
+clear
 bash install.sh
 python3 seeker.py -t manual
 
