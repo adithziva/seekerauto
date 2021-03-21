@@ -4,8 +4,12 @@ pkg install openssh -y
 pkg install Ruby -y
 gem install lolcat
 
-
-
+git clone https://github.com/thewhiteh4t/seeker
+ls
+cd seeker
+ls
+pkg install python php -y
+clear
 cowsay -f dragon Mr_blvck_ | lolcat
 figlet -f standard BLVCK | lolcat
 echo -e "\e[96m"
@@ -21,14 +25,6 @@ echo -e '\e[0;35m         +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 echo -e '\034                 [#]  INSTAGRAM : MR_blvck_ ';
 echo -e '\e[0;35m         +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 figlet -f slant "Starting..."| lolcat
-
-
-git clone https://github.com/thewhiteh4t/seeker
-ls
-cd seeker
-ls
-pkg install python php -y
-clear
 ls
 bash install.sh
 python3 seeker.py -t manual
