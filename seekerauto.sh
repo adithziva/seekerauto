@@ -21,7 +21,7 @@ echo -e ' [#] WE CAN BREAK SECURITY NOT HEART [#] \033[0m';
 echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 
 echo -e '\e[0;35m         +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
-echo -e '\034                 [#]  INSTAGRAM : MR_blvck_ ';
+echo -e '\034                 [#]  INSTAGRAM : mr_ziva_ ';
 echo -e '\e[0;35m         +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 figlet -f slant "Starting..."| lolcat
 ls
