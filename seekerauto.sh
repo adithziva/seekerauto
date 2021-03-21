@@ -1,5 +1,9 @@
 pkg install cowsay -y
-pkg install figlet -y
+pkg install figlet
+pkg install openssh -y
+pkg install Ruby -y
+gem install lolcat
+
 
 
 cowsay -f dragon Mr_blvck_ | lolcat
