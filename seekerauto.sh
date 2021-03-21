@@ -10,7 +10,6 @@ cd seeker
 ls
 pkg install python php -y
 clear
-cowsay -f dragon Mr_blvck_ | lolcat
 figlet -f standard BLVCK | lolcat
 echo -e "\e[96m"
 echo " "
