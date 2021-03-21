@@ -1,5 +1,5 @@
-pkg install cowsay
-pkg install figlet
+pkg install cowsay -y
+pkg install figlet -y
 
 
 cowsay -f dragon Mr_blvck_ | lolcat
