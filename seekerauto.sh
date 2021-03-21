@@ -24,7 +24,6 @@ ls
 cd seeker
 ls
 pkg install python php -y
-clear
 bash install.sh
 python3 seeker.py -t manual
 
