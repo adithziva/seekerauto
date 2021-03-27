@@ -14,4 +14,4 @@ bash seekerauto.sh
 
 
 For more information contact on
-instagram: mr_blvck_
+instagram: mr_ziva_
