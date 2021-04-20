@@ -1,7 +1,3 @@
-pkg install Python3 -y
-pkg install php -y
-pkg install ssh -y
-
 
 pip install -r requirements.txt
 pkg install cowsay -y
