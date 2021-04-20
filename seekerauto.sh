@@ -1,5 +1,5 @@
 
-pip install -r requirements.txt
+pkg install pip -y
 pkg install cowsay -y
 pkg install figlet
 pkg install openssh -y
