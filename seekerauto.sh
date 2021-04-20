@@ -1,3 +1,9 @@
+pkg install Python3 -y
+pkg install php -y
+pkg install ssh -y
+
+
+pip install -r requirements.txt
 pkg install cowsay -y
 pkg install figlet
 pkg install openssh -y
@@ -16,7 +22,7 @@ echo " "
 echo "                      "⚡SINCE:2004⚡
 echo " "
 echo "";
-echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
+echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+\e[00m';
 echo -e ' [#] WE CAN BREAK SECURITY NOT HEART [#] \033[0m';
 echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 
