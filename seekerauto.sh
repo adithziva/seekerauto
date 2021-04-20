@@ -25,7 +25,7 @@ echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 echo -e '\e[0;35m         +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 echo -e '\034                 [#]  INSTAGRAM : mr_ziva_ ';
 echo -e '\e[0;35m         +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
-figlet -f "Starting..."| lolcat
+figlet -f slant "Starting..."| lolcat
 ls
 bash install.sh
 python3 seeker.py -t manual
