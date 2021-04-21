@@ -4,7 +4,6 @@ git clone https://github.com/thewhiteh4t/seeker
 ls
 cd seeker
 ls
-pkg install python php -y
 clear
 figlet -f standard BLVCK | lolcat
 echo -e "\e[96m"
