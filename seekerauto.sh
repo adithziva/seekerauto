@@ -1,10 +1,4 @@
 
-pkg install pip -y
-pkg install cowsay -y
-pkg install figlet
-pkg install openssh -y
-pkg install ruby -y
-gem install lolcat
 
 git clone https://github.com/thewhiteh4t/seeker
 ls
