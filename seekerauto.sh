@@ -21,6 +21,8 @@ pip3 install requests &>> start.log
 
 echo -e '\e[0;102m [!] Installed... \e[00m'
 
+apt-get -y install figlet &>> start.log
+gem install lolcat &>> start.log
 
 git clone https://github.com/thewhiteh4t/seeker
 ls
