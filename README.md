@@ -17,11 +17,14 @@ Looking forward to not wasting time🏴‍☠️
 <p align="center">For more information contact on</p>
 <h1 align="center">SOCIAL MEDIA</h1>
 
-<div> 
-<h5>INSTAGRAM: <a href="https://instagram.com/mr_ziva_?igshid=16l8x2u66fm0u">mr_ziva_</a></h5>
-</div>
-<div>
-<h5>WHAT'SAPP: <a href="https://wa.me/+916282943771">Talk a bussines 😹</a><h5>
-</div>
+### Spotify Playing 🎧
 
-<li><a href="https://instagram.com/mr_ziva_?igshid=16l8x2u66fm0u"><i class="im im-instagram" aria-hidden="true"></i><span>Instagram</span></a></li>
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Play your fav song" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
