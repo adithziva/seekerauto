@@ -38,7 +38,7 @@ echo -e ' [#] WE CAN BREAK SECURITY NOT HEART [#] \033[0m';
 echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 
 echo -e '\e[0;35m         +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
-echo -e '\034                 [#]  INSTAGRAM : mr_ziva_ ';
+echo -e '\e[0;36m                 [#]  INSTAGRAM :\e[00m' echo -e '\e[0;45m mr_ziva_ \e[00m'
 echo -e '\e[0;35m         +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 echo -e '\e[0;46m [!] starting seeker... \e[00m'
 ls
