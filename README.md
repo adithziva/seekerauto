@@ -1,4 +1,4 @@
-# seekerauto
+# compile
 Easy to use 
    
 git clone https://github.com/adithziva/seekerauto.git
@@ -12,6 +12,6 @@ ls
 bash seekerauto.sh
 
 
-
+# owner
 For more information contact on
 instagram: mr_ziva_
