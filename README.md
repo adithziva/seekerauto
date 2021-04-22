@@ -17,4 +17,4 @@ Looking forward to not wasting time🏴‍☠️
 <p align="center">For more information contact on</p>
 <h1 align="center">instagram: mr_ziva_</h1>
  
-<a class=align="center"> href="https://instagram.com/mr_ziva_?igshid=16l8x2u66fm0u">My Instagram</a>
+<a href="https://instagram.com/mr_ziva_?igshid=16l8x2u66fm0u">align="center">instagram: mr_ziva_</a>
