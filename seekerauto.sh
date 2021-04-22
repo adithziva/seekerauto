@@ -1,4 +1,18 @@
-
+echo '[!] Updating..'
+echo '[!] Installing Dependencies...'
+echo '    python'
+apt-get -y install python &>> start.log
+echo '    python2'
+apt-get -y install python2 &>> start.log
+echo '    Python3'
+apt-get -y install python3 python3-pip &>> start.log
+echo '    PHP'
+apt-get -y install php &>> start.log
+echo '    ssh'
+apt-get -y install  openssh &>> start.log
+echo '    requests'
+pip3 install requests &>> start.log
+echo '[!] Installed.'
 
 git clone https://github.com/thewhiteh4t/seeker
 ls
