@@ -19,9 +19,9 @@ Looking forward to not wasting time🏴‍☠️
 
 <body>
 <div> 
-<h5> Instagram: <a href="https://instagram.com/mr_ziva_?igshid=16l8x2u66fm0u">mr_ziva_</a></h5>
+<h5>INSTAGRAM: <a href="https://instagram.com/mr_ziva_?igshid=16l8x2u66fm0u">mr_ziva_</a></h5>
 </div>
 <div>
-<h5> What'sapp: <a href="https://wa.me/+916282943771">Talk a bussines 😹</a><h5>
+<h5>WHAT'SAPP: <a href="https://wa.me/+916282943771">Talk a bussines 😹</a><h5>
 </div>
 </body>
