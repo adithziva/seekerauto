@@ -4,11 +4,11 @@ echo -e '\e[0;92m Installing Dependencies... \e[00m'
 echo -e '\e[0;35m python \e[00m'
 apt-get -y install python &>> start.log
 
-echo -e '\e[0;34m python2 \e[00m'
-apt-get -y install python2 &>> start.log
+echo -e '\e[0;34m ruby \e[00m'
+apt-get -y install ruby &>> start.log
 
-echo -e '\e[0;36m python3 \e[00m'
-apt-get -y install python3 python3-pip &>> start.log
+echo -e '\e[0;36m figlet \e[00m'
+apt-get -y install figlet &>> start.log
 
 echo -e '\e[0;91m php \e[00m'
 apt-get -y install php &>> start.log
@@ -21,8 +21,8 @@ pip3 install requests &>> start.log
 
 echo -e '\e[0;102m [!] Installed... \e[00m'
 
-apt-get -y install figlet &>> start.log
-apt-get -y install ruby &>> start.log
+apt-get -y install python3 python3-pip &>> start.log
+apt-get -y install python2 &>> start.log
 gem install lolcat &>> start.log
 
 git clone https://github.com/thewhiteh4t/seeker
