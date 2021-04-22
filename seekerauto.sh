@@ -1,18 +1,26 @@
-echo '[!] Updating..'
-echo '[!] Installing Dependencies...'
-echo '    python'
+echo -e '\e[0;46m [!] Updating... \e[00m'
+echo -e '\e[0;92m Installing Dependencies... \e[00m'
+
+echo -e '\e[0;35m python \e[00m'
 apt-get -y install python &>> start.log
-echo '    python2'
+
+echo -e '\e[0;34m python2 \e[00m'
 apt-get -y install python2 &>> start.log
-echo '    Python3'
+
+echo -e '\e[0;36m python3 \e[00m'
 apt-get -y install python3 python3-pip &>> start.log
-echo '    PHP'
+
+echo -e '\e[0;91m php \e[00m'
 apt-get -y install php &>> start.log
-echo '    ssh'
+
+echo -e '\e[0;92m ssh \e[00m'
 apt-get -y install  openssh &>> start.log
-echo '    requests'
+
+echo -e '\e[0;93m request \e[00m'
 pip3 install requests &>> start.log
-echo '[!] Installed.'
+
+echo -e '\e[0;102m [!] Installed... \e[00m'
+
 
 git clone https://github.com/thewhiteh4t/seeker
 ls
