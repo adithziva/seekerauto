@@ -29,10 +29,7 @@ ls
 clear
 figlet -f standard BLVCK | lolcat
 echo -e "\e[96m"
-echo " "
-echo "                      "⚡SINCE:2004⚡
-echo " "
-echo "";
+echo -e '\e[0;47m ⚡SINCE:2004⚡ \e[00m'
 echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+\e[00m';
 echo -e ' [#] WE CAN BREAK SECURITY NOT HEART [#] \033[0m';
 echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
