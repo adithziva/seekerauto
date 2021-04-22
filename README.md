@@ -6,24 +6,13 @@ Looking forward to not wasting time
 
 ### CLONE
 ```
-# git clone https://github.com/adithziva/seekerauto.git
-# ls
-# cd seekerauto
-# ls
-# bash seekerauto.sh
+★ git clone https://github.com/adithziva/seekerauto.git
+★ ls
+★ cd seekerauto
+★ ls
+★ bash seekerauto.sh
 ```
-   
-git clone https://github.com/adithziva/seekerauto.git
 
-ls 
-
-cd seekerauto
-
-ls
-
-bash seekerauto.sh
-
-
-# owner
-For more information contact on
-instagram: mr_ziva_
+# OWNER
+<p align="center">For more information contact on</p>
+<h1 align="center">instagram: mr_ziva_</h1>
