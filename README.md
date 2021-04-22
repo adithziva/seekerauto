@@ -13,7 +13,7 @@ Looking forward to not wasting time🏴‍☠️
 ★ bash seekerauto.sh
 ```
 
-# OWNER
+<h4 align="center">OWNER</h4>
 <p align="center">For more information contact on</p>
 <h1 align="center">SOCIAL MEDIA</h1>
 
