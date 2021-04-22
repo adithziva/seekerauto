@@ -22,6 +22,7 @@ pip3 install requests &>> start.log
 echo -e '\e[0;102m [!] Installed... \e[00m'
 
 apt-get -y install figlet &>> start.log
+apt-get -y install ruby &>> start.log
 gem install lolcat &>> start.log
 
 git clone https://github.com/thewhiteh4t/seeker
@@ -31,7 +32,7 @@ ls
 clear
 figlet -f standard BLVCK | lolcat
 echo -e "\e[96m"
-echo -e '\e[0;47m ⚡SINCE:2004⚡ \e[00m'
+echo -e '\e[0;45m ⚡SINCE:2004⚡ \e[00m'
 echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+\e[00m';
 echo -e ' [#] WE CAN BREAK SECURITY NOT HEART [#] \033[0m';
 echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
