@@ -16,7 +16,3 @@ Looking forward to not wasting time🏴‍☠️
 # OWNER
 <p align="center">For more information contact on</p>
 <h1 align="center">SOCIAL MEDIA</h1>
-<div> 
-<h5> Instagram: <a href="https://instagram.com/mr_ziva_?igshid=16l8x2u66fm0u">mr_ziva_</a></h5>
-</div>
-<h5> What'sapp: <a href="https://wa.me/+916282943771">talk a bussines 😹</a><h5>
