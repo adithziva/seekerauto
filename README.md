@@ -25,3 +25,9 @@ Looking forward to not wasting time🏴‍☠️
 <h5>WHAT'SAPP: <a href="https://wa.me/+916282943771">Talk a bussines 😹</a><h5>
 </div>
 </body>
+
+
+<li>
+
+                <a href="https://instagram.com/mr_ziva_?igshid=16l8x2u66fm0u"><i class="im im-instagram" aria-hidden="true"></i><span>Instagram</span></a>
+            </li>
