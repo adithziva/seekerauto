@@ -18,3 +18,4 @@ Looking forward to not wasting time🏴‍☠️
 <h1 align="center">SOCIAL MEDIA</h1>
  
 Instagram: <a href="https://instagram.com/mr_ziva_?igshid=16l8x2u66fm0u">mr_ziva_</a>
+What'sapp: <a href="https://wa.me/+916282943771">talk a bussines 😹</a>
