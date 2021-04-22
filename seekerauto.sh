@@ -34,7 +34,7 @@ figlet -f standard BLVCK | lolcat
 echo -e "\e[96m"
 echo -e '\e[0;45m ⚡SINCE:2004⚡ \e[00m'
 echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+\e[00m';
-echo -e ' [#] WE CAN BREAK SECURITY NOT HEART [#] \033[0m';
+echo -e '\e[0;91m [#] WE CAN BREAK SECURITY NOT HEART [#] \e[00m';
 echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
 
 echo -e '\e[0;35m         +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
