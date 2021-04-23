@@ -35,4 +35,4 @@ Looking forward to not wasting time🏴‍☠️
 
 
 [![Website](https://img.shields.io/badge/MY%20-Website-brightgreen)](https://blvcksec.ml)
-[![seeker](https://img.shields.io/badge/Find%20-Location-green
+[![seeker](https://img.shields.io/badge/Find%20-Location-green)](https://blvcksec.ml)
