@@ -1,4 +1,4 @@
-<h1 align="center">seekerauto</h1>
+<h1 align="center">Seekerauto</h1>
 <p align="center">
 •Looking forward to not wasting time🏴‍☠️
 •seeker automation
