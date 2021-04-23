@@ -12,7 +12,7 @@ Looking forward to not wasting time🏴‍☠️
 ★ ls
 ★ bash seekerauto.sh
 ```
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#E4405F.svg" />
 <h4 align="center">OWNER</h4>
 <p align="center">For more information contact on</p>
 <h1 align="center">SOCIAL MEDIA</h1>
