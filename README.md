@@ -19,7 +19,7 @@
 [![Website](https://img.shields.io/badge/MY%20-Website-brightgreen)](https://blvcksec.ml)
 [![seeker](https://img.shields.io/badge/MY%20-INSTAGRAM-orange)](https://blvcksec.ml)
 
-<h1 align="center">SOCIAL MEDIA</h1>
+<h3 align="center">SOCIAL MEDIA</h3>
 
 ### Connect with me:
 
