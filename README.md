@@ -19,7 +19,7 @@ Looking forward to not wasting time🏴‍☠️
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-play-r6ggx1seu-adithziva12-gmailcom.vercel.app" alt="Play your fav song" width="350" />](https://open.spotify.com/playlist/3L8CNsaIunMjAIS8DnW1tc?si=gACMEF25SLiM4opjSofWNA)
+[<img src="https://spotify-now-play-r6ggx1seu-adithziva12-gmailcom.vercel.app" alt="Play your fav song" width="350" />](https://open.spotify.com/user/codestackr)
 
 ### Connect with me:
 
