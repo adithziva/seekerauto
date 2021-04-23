@@ -1,6 +1,7 @@
 <h1 align="center">seekerauto</h1>
 <p align="center">
-Looking forward to not wasting time🏴‍☠️
+•Looking forward to not wasting time🏴‍☠️
+•seeker automation
 </p>
 
 
@@ -14,6 +15,12 @@ Looking forward to not wasting time🏴‍☠️
 ```
 <h4 align="center">OWNER</h4>
 <p align="center">For more information contact on</p>
+
+<div>
+[![Website](https://img.shields.io/badge/MY%20-Website-brightgreen)](https://blvcksec.ml)
+[![seeker](https://img.shields.io/badge/MY%20-INSTAGRAM-orange)](https://blvcksec.ml)
+</div>
+
 <h1 align="center">SOCIAL MEDIA</h1>
 
 ### Connect with me:
@@ -34,5 +41,3 @@ Looking forward to not wasting time🏴‍☠️
 [whatsapp]: #
 
 
-[![Website](https://img.shields.io/badge/MY%20-Website-brightgreen)](https://blvcksec.ml)
-[![seeker](https://img.shields.io/badge/Find%20-Location-green)](https://blvcksec.ml)
