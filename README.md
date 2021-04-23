@@ -17,10 +17,6 @@ Looking forward to not wasting time🏴‍☠️
 <p align="center">For more information contact on</p>
 <h1 align="center">SOCIAL MEDIA</h1>
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-play-r6ggx1seu-adithziva12-gmailcom.vercel.app" alt="Play your fav song" width="350" />](https://open.spotify.com/user/codestackr)
-
 ### Connect with me:
 
 
