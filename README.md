@@ -16,10 +16,8 @@
 <h4 align="center">OWNER</h4>
 <p align="center">For more information contact on</p>
 
-<div>
 [![Website](https://img.shields.io/badge/MY%20-Website-brightgreen)](https://blvcksec.ml)
 [![seeker](https://img.shields.io/badge/MY%20-INSTAGRAM-orange)](https://blvcksec.ml)
-</div>
 
 <h1 align="center">SOCIAL MEDIA</h1>
 
