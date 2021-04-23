@@ -23,7 +23,7 @@ Looking forward to not wasting time🏴‍☠️
 [<img align="right" alt="ziva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="right" alt="ziva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="right" alt="ziva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="right" alt="ziva | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][twitter]
+[<img align="right" alt="ziva | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br/>
 
@@ -33,6 +33,6 @@ Looking forward to not wasting time🏴‍☠️
 [linkedin]: #
 [whatsapp]: #
 
-[<img align="right" alt="ziva | whatsapp" width="90px" src="https://img.shields.io/badge/Find%20-Location-green" />][twitter]
+[<img align="right" alt="ziva | whatsapp" width="90px" src="https://img.shields.io/badge/Find%20-Location-green" />][website]
 
 [![Website](https://img.shields.io/badge/Find%20-Location-green)](https://blvcksec.ml)
