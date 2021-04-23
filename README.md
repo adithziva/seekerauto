@@ -33,5 +33,6 @@ Looking forward to not wasting time🏴‍☠️
 [linkedin]: #
 [whatsapp]: #
 
+[<img align="right" alt="ziva | whatsapp" width="90px" src="https://img.shields.io/badge/Find%20-Location-green" />][twitter]
 
 [![Website](https://img.shields.io/badge/Find%20-Location-green)](https://blvcksec.ml)
