@@ -13,7 +13,7 @@
 <a href="https://github.com/adithziva"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="http://github/adithziva"><img title="mrphish" src="https://user-images.githubusercontent.com/49580304/96558549-b22f1800-1270-11eb-81c4-502960f9447f.jpg"></a>
+<a href="http://github/adithziva"><img title="mrphish" src="img/3.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
