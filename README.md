@@ -31,9 +31,11 @@
 
 ### CLONE
 ```
+★ pkg update && pkg upgrade
+★ pkg install python
 ★ git clone https://github.com/adithziva/seekerauto.git
 ★ ls
-★ cd seekerauto
+★https://instagram.com/mr_ziva_ cd seekerauto
 ★ ls
 ★ bash seekerauto.sh
 ```
