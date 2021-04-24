@@ -17,7 +17,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/BLVCK-HACKER-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="#"><img title="YouTube" src="https://img.shields.io/badge/YouTube-BLVCK HACKER-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
