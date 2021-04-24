@@ -1,4 +1,4 @@
-<h1 align="center">Seekerauto</h1>
+<h1 align="center">SeekerAuto</h1>
 <p align="center">
 •Looking forward to not wasting time🏴‍☠️
 •seeker automation
@@ -21,7 +21,7 @@
 <a href="#"><img title="YouTube" src="https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
-<a href="https://github.com/adithziva"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/adithziva"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=100"></a>
 <a href="https://instagram.com/mr_ziva_"><img title="Followers" src="https://img.shields.io/github/followers/adithziva?color=blue&style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Stars" src="https://img.shields.io/github/stars/adithziva/seekerauto?color=red&style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Forks" src="https://img.shields.io/github/forks/adithziva/seekerauto?color=red&style=flat-square"></a>
@@ -67,12 +67,11 @@
 
 ### Connect with me:
 
-
-[<img align="right" alt="blvcksec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="right" alt="ziva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="right" alt="ziva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="right" alt="ziva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="right" alt="ziva | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="center" alt="blvcksec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="ziva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="ziva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="ziva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="ziva | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br/>
 
