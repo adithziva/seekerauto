@@ -59,8 +59,8 @@
 
 
 <p align="center">
-<a href="https://github.com/adithziva"><img title="website" src="https://img.shields.io/badge/MY%20-Website-brightgreen"></a>
-<a href="https://github.com/adithziva"><img title="instagram" src="https://img.shields.io/badge/MY%20-INSTAGRAM-orange"></a>
+<a href="https://blvcksec.ml"><img title="website" src="https://img.shields.io/badge/MY%20-Website-brightgreen"></a>
+<a href="https://instagram.com/mr_ziva_"><img title="instagram" src="https://img.shields.io/badge/MY%20-INSTAGRAM-orange"></a>
 </p>
 
 <h3 align="center">SOCIAL MEDIA</h3>
