@@ -76,7 +76,7 @@
 <br/>
 
 [website]: http://blvcksec.ml
-[twitter]: #
+[twitter]: https://twitter.com/adithziva?s=09
 [instagram]: https://instagram.com/mr_ziva_
 [linkedin]: #
 [whatsapp]: #
