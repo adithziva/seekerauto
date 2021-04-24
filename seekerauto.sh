@@ -1,3 +1,5 @@
+#! /bin/bash
+
 echo -e '\e[0;46m [!] Updating... \e[00m'
 sleep 0.2
 echo -e '\e[0;92m Installing Dependencies...it will take a while \e[00m'
