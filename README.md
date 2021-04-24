@@ -40,7 +40,7 @@
 ★ bash seekerauto.sh
 ```
 </br>
-<p align="left">
+<p align="centre">
 <a href="http://github/adithziva"><img title="mrphish" src="img/1.jpg" width="180"></a>
 <a href="http://github/adithziva"><img title="mrphish" src="img/2.jpg" width="160"></a>
 </P>
