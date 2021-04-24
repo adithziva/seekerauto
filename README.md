@@ -42,8 +42,11 @@
 <h4 align="center">OWNER</h4>
 <p align="center">For more information contact on</p>
 
-[![Website](https://img.shields.io/badge/MY%20-Website-brightgreen)](https://blvcksec.ml)
-[![seeker](https://img.shields.io/badge/MY%20-INSTAGRAM-orange)](https://blvcksec.ml)
+
+<p align="center">
+<a href="https://github.com/adithziva"><img title="website" src="https://img.shields.io/badge/MY%20-Website-brightgreen"></a>
+<a href="https://github.com/adithziva"><img title="instagram" src="https://img.shields.io/badge/MY%20-INSTAGRAM-orange"></a>
+</p>
 
 <h3 align="center">SOCIAL MEDIA</h3>
 
