@@ -39,6 +39,12 @@
 ★ ls
 ★ bash seekerauto.sh
 ```
+</br>
+<p align="centre">
+<a href="http://github/adithziva"><img title="mrphish" src="img/1.jpg"></a>
+<a href="http://github/adithziva"><img title="mrphish" src="img/2.jpg"></a>
+</P>
+
 <h4 align="center">OWNER</h4>
 <p align="center">For more information contact on</p>
 
