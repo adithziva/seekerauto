@@ -41,7 +41,7 @@
 ```
 </br>
 <p align="centre">
-<a href="http://github/adithziva"><img title="mrphish" src="img/1.jpg"></a>
+<a href="http://github/adithziva"><img title="mrphish" src="img/1.jpg width=50"></a>
 <a href="http://github/adithziva"><img title="mrphish" src="img/2.jpg"></a>
 </P>
 
