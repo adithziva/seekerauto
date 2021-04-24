@@ -45,7 +45,7 @@
 ### SCREENSHOT
 <p align="center">
 <a href="http://github.com/adithziva"><img title="IMG" src="img/1.jpg" width="160"></a>
-<a href="http://github.com/adithziva"><img title="IMG" src="img/2.jpg" width="160"></a>
+<a href="http://github.com/adithziva"><img title="IMG" src="img/2.jpg" width="160" height="160"></a>
 </P>
 
 ### TESTED ON
