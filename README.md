@@ -40,9 +40,9 @@
 ★ bash seekerauto.sh
 ```
 </br>
-<p align="centre">
-<a href="http://github/adithziva"><img title="mrphish" src="img/1.jpg width=50"></a>
-<a href="http://github/adithziva"><img title="mrphish" src="img/2.jpg"></a>
+<p align="left">
+<a href="http://github/adithziva"><img title="mrphish" src="img/1.jpg" width="150"></a>
+<a href="http://github/adithziva"><img title="mrphish" src="img/2.jpg" width="130"></a>
 </P>
 
 <h4 align="center">OWNER</h4>
