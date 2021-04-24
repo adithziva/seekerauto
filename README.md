@@ -13,7 +13,7 @@
 <a href="https://github.com/adithziva"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="http://github/adithziva"><img title="mrphish" src="img/3.jpg"></a>
+<a href="http://github.com/adithziva"><img title="seeker explain" src="img/3.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/BLVCK-HACKER-brightgreen?style=for-the-badge&logo=github"></a>
@@ -40,10 +40,18 @@
 ★ bash seekerauto.sh
 ```
 </br>
-<p align="centre">
-<a href="http://github/adithziva"><img title="mrphish" src="img/1.jpg" width="180"></a>
-<a href="http://github/adithziva"><img title="mrphish" src="img/2.jpg" width="160"></a>
+
+
+### SCREENSHOT
+<p align="center">
+<a href="http://github.com/adithziva"><img title="IMG" src="img/1.jpg" width="160"></a>
+<a href="http://github.com/adithziva"><img title="IMG" src="img/2.jpg" width="140"></a>
 </P>
+
+### TESTED ON
+<p align="center">TOOL ONLY WORK ON TERMUX</p>
+
+
 
 <h4 align="center">OWNER</h4>
 <p align="center">For more information contact on</p>
