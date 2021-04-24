@@ -41,8 +41,8 @@
 ```
 </br>
 <p align="left">
-<a href="http://github/adithziva"><img title="mrphish" src="img/1.jpg" width="150"></a>
-<a href="http://github/adithziva"><img title="mrphish" src="img/2.jpg" width="130"></a>
+<a href="http://github/adithziva"><img title="mrphish" src="img/1.jpg" width="200"></a>
+<a href="http://github/adithziva"><img title="mrphish" src="img/2.jpg" width="180"></a>
 </P>
 
 <h4 align="center">OWNER</h4>
