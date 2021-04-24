@@ -35,7 +35,7 @@
 ★ pkg install python
 ★ git clone https://github.com/adithziva/seekerauto.git
 ★ ls
-★https://instagram.com/mr_ziva_ cd seekerauto
+★ cd seekerauto
 ★ ls
 ★ bash seekerauto.sh
 ```
