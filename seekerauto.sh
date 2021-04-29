@@ -4,7 +4,7 @@ g="\033[1;32m"
 r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
-lb=\033[
+lb="\033[
 echo -e '\e[0;46m [!] Updating... \e[00m'
 sleep 0.2
 echo -e '\e[0;92m Installing Dependencies...it will take a while \e[00m'
