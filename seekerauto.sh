@@ -5,27 +5,33 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 ib="\033[1;47m"
+Ab="\033[1;36m"
+c="\033[1;37m"
+d="\033[1;92m"
+k="\033[1;93m"
+m="\033[1;95m"
+
 echo -e '\e[0;46m [!] Updating... \e[00m'
 sleep 0.2
-echo -e $ib'Installing Dependencies.. \'
-sleep 5
+echo -e $g'Installing Dependencies..'
+sleep 2
 
-echo -e $b"> "$w"installing:"$r"PYTHON"
+echo -e $b"> "$w"installing"$b":"$r"PYTHON"
 apt-get -y install python &>> start.log
 
-echo -e '\e[0;34m ruby \e[00m'
+echo -e $b"> "$w"installing"$b":"$Ab"RUBY"
 apt-get -y install ruby &>> start.log
 
-echo -e '\e[0;36m figlet \e[00m'
+echo -e $b"> "$w"installing"$b":"$c"FIGLET"
 apt-get -y install figlet &>> start.log
 
-echo -e '\e[0;91m php \e[00m'
+echo -e $b"> "$w"installing"$b":"$d"PHP"
 apt-get -y install php &>> start.log
 
-echo -e '\e[0;92m ssh \e[00m'
+echo -e $b"> "$w"installing"$b":"$k"OPENSSH"
 apt-get -y install  openssh &>> start.log
 
-echo -e '\e[0;93m request \e[00m'
+echo -e $b"> "$w"installing"$b":"$m"REQUESTS"
 pip3 install requests &>> start.log
 
 echo -e '\e[0;102m [!] Installed... \e[00m'
