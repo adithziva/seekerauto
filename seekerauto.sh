@@ -4,12 +4,12 @@ g="\033[1;32m"
 r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
-ib="\033[1;46m"
+ib="\033[1;47m"
 echo -e '\e[0;46m [!] Updating... \e[00m'
 sleep 0.2
-echo -e $ib"Installing Dependencies.."
+echo -e "$ib"Installing Dependencies.."
 sleep 5
-echo -e $b"> "$w"installing:"$r"PYTHON"
+echo -e "$b"> "$w"installing:"$r"PYTHON"
 apt-get -y install python &>> start.log
 
 echo -e '\e[0;34m ruby \e[00m'
